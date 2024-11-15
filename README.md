@@ -30,6 +30,3 @@ Eduty is a fully featured internal hack for Valorant written in C++.
 * Fov
 * Etc.
 
-### Download Eduty
-    git clone --recursive https://github.com/DevRcs/Eduty-Valorant-Esp-Aimbot-Hack
-    cd AimTux
